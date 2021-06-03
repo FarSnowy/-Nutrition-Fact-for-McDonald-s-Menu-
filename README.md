@@ -18,4 +18,4 @@ Hal yang dianalisa yaitu :
 **Intruksi**
 
     Download Dataset
-    Run file Nutrition Fact for McDonald’s Menu .ipynb
+    Open PDF
